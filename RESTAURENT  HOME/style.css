@@ -1,0 +1,107 @@
+*{
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  
+}
+@import url('https://fonts.googleapis.com/css2?family=Open+Sans:wght@600&display=swap');
+
+
+.food{
+ 
+  width: 50%;
+  height: 120px;
+  /* background-color: red; */
+  padding-left: 85px;
+  padding-top: 80px;
+
+
+}
+img{
+  width: 650px;
+  height: 650px;
+}
+.container{
+  display: inline-flex;
+
+}
+.hea{
+  padding: 150px;
+}
+#off{
+  background-color: rgb(111, 187, 111);
+  width: 290px;
+  height: 49px;
+  font-size: 25px;
+  padding: 13px;
+  font-family: 'Open Sans', sans-serif;
+  color: white;
+  
+
+}
+.main-head{
+  padding-top: 16px;
+  font-size: 76px;
+  font-family: 'Open Sans', sans-serif;
+}
+
+button{
+  background-color: rgb(243, 169, 33);
+  color: white;
+  width: 200px;
+  height: 85px;
+  border: 0px solid transparent;
+  font-size: 25px;
+  margin-top: 25px;
+  font-weight: 600;
+  font-family: 'Open Sans', sans-serif;
+}
+
+button:hover{
+  background-color:  rgb(111, 187, 111);
+}
+.mir{
+  width: 115px;
+  height: 95px;
+}
+.fir{
+  display: inline-flex;
+  padding-left: 180px;
+  
+}
+.cont {
+  padding-top: 25px;
+}
+.cont h3{
+  font-size: 25px;
+}
+.green{
+  background-color:  rgb(111, 187, 111);
+  text-align: center;
+ margin-left: 800px;
+ margin-top: 420PX;
+padding: 10PX;
+color: white;
+font-size: 28PX;
+font-weight: 700;
+font-family: 'Open Sans', sans-serif;
+}
+
+.butt{
+ 
+  font-family: 'Open Sans', sans-serif;
+  margin-left: 650px;
+  padding-top: 50px;
+  font-size: 55px;
+
+}
+
+.menu1{
+  background-image: url('./foodmenu.png');
+  background-repeat: no-repeat; 
+  width: 100%;
+  height: 850px;
+  margin-left: 150px;
+  margin-top: 120px;
+  
+}
