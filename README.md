@@ -26,5 +26,15 @@ Feel free to fork or clone this repository to kickstart your restaurant's online
 - **Bootstrap**
 - **Font Awesome**
 
+  ![image](https://github.com/AMAN-DIV/Static-Restaurant-Home-page/assets/125110120/d0d109b5-221e-4e41-bfc4-0b1c2bffceb4)
+
+
+  ![image](https://github.com/AMAN-DIV/Static-Restaurant-Home-page/assets/125110120/cef11bda-ad91-4418-a068-726a396a7db0)
+
+
+
 ```bash
 git clone https://github.com/aman-div/Static-Restaurant-Home-page.git
+
+
+
